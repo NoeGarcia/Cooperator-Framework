@@ -1,0 +1,5 @@
+Para obtener una lista de los cambios y mejoras realizados en esta version, por favor, ingresar aqui:
+
+
+http://www.assembla.com/spaces/cooperator/tickets?batch=false&tickets_report_id=5&ticket_id=&commit=Go+%C2%BB
+
