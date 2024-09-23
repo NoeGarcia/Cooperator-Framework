@@ -26,6 +26,9 @@ El objetivo principal es que sea fácil de usar y de acercar los objetos a más 
 
 • **Licencia BSD.** Una de las licencias más permisivas que existen, estando muy cerca del dominio público, dando la libertad de usar, copiar, modificar, compilar y publicar tanto el código fuente como los binarios.
 
+## Agradecimientos y referencias
+Este proyecto está basado en el Cooperator Framework original, que se encuentra en [Assembla](https://app.assembla.com/spaces/cooperator). Agradezco a los desarrolladores originales por su trabajo.
+
 ## Creadores
 • Eugenio Serrano y Daniel Calvin
 
@@ -37,4 +40,5 @@ El objetivo principal es que sea fácil de usar y de acercar los objetos a más 
 
 ## Motivación
 Compartir y difundir una fantástica herramienta para la creación de aplicaciones con .Net Framework y agradecer a sus creadores por desarrollar este estupendo proyecto.  
-Creo que no se ha valorado ni apoyado lo suficiente a este proyecto y es por eso que creo se merece un lugar aqui en GitHub, donde creo que se dará a conocer más y probablemente tendrá más contribuciones.
+Creo que no se ha valorado ni apoyado lo suficiente a este proyecto y es por eso que creo se merece un lugar aqui en GitHub, donde creo que se dará a conocer más y probablemente tendrá más contribuciones.  
+Por mi parte trataré de agregar nuevas características y funcionalidades.
